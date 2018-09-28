@@ -1,0 +1,8 @@
+.thumbnailItemWrapper {
+  margin-top: 20px;
+}
+.thumbnailItem {
+  height: 125px;
+  width: 100%;
+  display: block;
+}

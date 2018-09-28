@@ -1,0 +1,28 @@
+.App {
+  font-size: 10px;
+  font-family: Roboto, Arial, sans-serif;
+  background-color: #FAFAFA;
+  width: 100%;
+  height: 100%;
+}
+
+.App-header {
+  background-color: #ffffff;
+  height: 56px;
+  /*display: flex;*/
+  /*flex-direction: row;*/
+  /*align-items: center;*/
+  /*justify-content: space-between;*/
+}
+
+.inlineBlock {
+  display: inline-block;
+}
+
+.p0 {
+  padding: 0px !important;
+}
+
+.m0 {
+  margin: 0px !important;
+}

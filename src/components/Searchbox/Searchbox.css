@@ -1,0 +1,20 @@
+.searchBoxWrapper {
+  padding: 10px;
+}
+.searchBox {
+  height: 32px;
+  padding: 3px 10px 3px;
+  font-size: 14px;
+  width: 80%;
+  border: 1px solid lightgray;
+}
+
+.searchButton {
+  color: gray;
+  background-color: #EFEFF0;
+  border: 1px solid lightgray;
+  height: 32px;
+  width: 65px;
+  font-size: 14px;
+  margin-top: 1px;
+}

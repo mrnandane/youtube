@@ -1,0 +1,10 @@
+.nav-item {
+  height: 40px;
+}
+.navbarItem {
+  width: 100%;
+  padding: 5px auto;
+}
+.navLink {
+  padding: auto 10px;
+}

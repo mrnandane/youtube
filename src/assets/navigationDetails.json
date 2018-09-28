@@ -1,0 +1,98 @@
+{
+  "navGroups":[
+    {
+      "label": "",
+      "navItems": [
+        {
+          "label":"Home",
+          "iconName": "fa fa-home fa-lg",
+          "routePath": ""
+        },{
+          "label":"Trending",
+          "iconName": "fa fa-fire fa-lg",
+          "routePath": ""
+        },{
+          "label":"Subscription",
+          "iconName": "fa fa-th-list fa-lg",
+          "routePath": ""
+        }
+      ]
+    },
+    {
+      "label": "LIBRARY",
+      "navItems": [
+        {
+          "label":"History",
+          "iconName": "fa fa-history fa-lg",
+          "routePath": ""
+        },{
+          "label":"Watch later",
+          "iconName": "fa fa-clock-o fa-lg",
+          "routePath": ""
+        },{
+          "label":"Liked Videos",
+          "iconName": "fa fa-thumbs-up fa-lg",
+          "routePath": ""
+        }
+      ]
+    },
+    {
+      "label": "SUBSCRIPTIONS",
+      "navItems": [
+        {
+          "label":"Google Developers",
+          "iconName": "",
+          "routePath": ""
+        },{
+          "label":"HasGeek TV",
+          "iconName": "",
+          "routePath": ""
+        },{
+          "label":"Browse channels",
+          "iconName": "",
+          "routePath": ""
+        }
+      ]
+    },
+    {
+      "label": "MORE FROM YOUTUBE",
+      "navItems": [
+        {
+          "label":"YouTube Movies",
+          "iconName": "",
+          "routePath": ""
+        },{
+          "label":"Gaming",
+          "iconName": "",
+          "routePath": ""
+        },{
+          "label":"Live",
+          "iconName": "",
+          "routePath": ""
+        }
+      ]
+    },
+    {
+      "label": "",
+      "navItems": [
+        {
+          "label":"Settings",
+          "iconName": "",
+          "routePath": ""
+        },{
+          "label":"Report History",
+          "iconName": "",
+          "routePath": ""
+        },{
+          "label":"Help",
+          "iconName": "",
+          "routePath": ""
+        },{
+          "label":"Send feeback",
+          "iconName": "",
+          "routePath": ""
+        }
+      ]
+    }
+  ]
+}

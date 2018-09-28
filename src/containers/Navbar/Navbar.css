@@ -1,0 +1,9 @@
+.NavWrapper {
+  max-width: 20%;
+  height: 100%;
+  background-color: #efeff0;
+  font-size: 14px;
+  overflow: auto;
+  padding-left: 0px;
+  padding-right: 0px;
+}

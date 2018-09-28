@@ -1,0 +1,6 @@
+.iconsTrayContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: #A3A3A3;
+}

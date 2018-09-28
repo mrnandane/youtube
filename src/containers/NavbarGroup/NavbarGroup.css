@@ -1,0 +1,24 @@
+.NavbarGroupWrapper {
+  border-bottom: 1px solid grey;
+  width: 100%;
+}
+.NavgroupLabel {
+  background-color: transparent;
+  margin-bottom: 0px;
+  font-size: 14px;
+  padding: 10px 15px;
+  font-weight: bold;
+  color: darkgray;
+}
+.nav {
+  padding: auto 15px;
+}
+
+.nav-item {
+  padding-left: 15px;
+  background-color: transparent;
+}
+
+.nav-item:hover{
+  background-color: gray;
+}
